@@ -107,14 +107,3 @@ This dashboard provides a clear view of sales performance and helps identify tre
 
 ---
 
-## 🤝 Connect With Me
-
-If you found this project useful or have feedback, feel free to connect with me on LinkedIn.
-
----
-
-If you want, I can also:
-
-* Add **badges (stars, forks, tools)**
-* Write a **strong GitHub project description (one-liner)**
-* Or help you **optimize it for recruiters**
