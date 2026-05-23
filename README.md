@@ -3,7 +3,7 @@
 
 ## 📷 Dashboard Preview
 
-<img width="1842" height="846" alt="image" src="[https://github.com/user-attachments/assets/125610f6-83fc-4676-8abd-79d92f368ab6](https://github.com/rishiworkin-dot/fnp-excel-dashboard/blob/main/Screenshot%202026-05-23%20144520.pdf)" />
+<a href= "https://github.com/rishiworkin-dot/fnp-excel-dashboard/blob/d7e4f8868bcdee517bae99e7696c1a345c2095bb/Screenshot%202026-05-23%20144520.pdf"></a>
 
 
 ## 📌 Overview
